@@ -3,7 +3,7 @@ modal-id: 5
 title: Novel Vibrotactile Actuator
 topics: Prosthesis & Orthosis, Haptics
 
-blurb: Can we build a dense actuator grid to improve the perceptual intensity? Is there a minimum dimeshion to how small we can go? yes, what is it? These are some of the questions I am trying to answer through my project. The main motive of this project is also to build a actuator that can be used to provide tactile feedback to amputees who have undergone TMR surgery.
+blurb: Can we build a dense actuator grid to improve the perceptual intensity? Is there a minimum dimension which corresponds to how small we can go on this resoljution? if yes, what is it? These are some of the questions I am trying to answer through my project. The main goal of this project is also to build an actuator that can be used to provide tactile feedback to amputees who have undergone TMR surgery.
 
 
 header: Tactor.png
